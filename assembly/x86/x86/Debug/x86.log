@@ -1,3 +1,1 @@
-﻿  Assembling Evan_Hunt_HW3_Prob2.asm...
-Evan_Hunt_HW3_Prob2.asm(9): warning A4011: multiple .MODEL directives found : .MODEL ignored
-  x86.vcxproj -> C:\Users\lemle\Documents\progs\assembly\x86\Debug\x86.exe
+﻿  x86.vcxproj -> C:\Users\lemle\Documents\Repos\Workspace\assembly\x86\Debug\x86.exe
